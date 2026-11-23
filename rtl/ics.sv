@@ -4,7 +4,7 @@ Project / Module    : ics
 File name           : ics.sv
 Version             : 1-0
 Date created        : 14 APRIL 2025
-Author              : Elveis Ng Kai Wei
+Author              : ELVEIS NG KAI WEI
 Code type           : RTL Level (System Verilog)
 Description         : Module definition of ICS, interacting all the block module
 */
