@@ -39,7 +39,7 @@ ics    - Top-level integer calculator system
 
 My main contribution was the input/output converter block. This block converts calculator input and computed results into displayable 7-segment output. It also handles result display formatting, binary-to-decimal conversion, overflow display, and negative value indication.
 
-## Technologies Used
+## Technologies Used ##
 
 * SystemVerilog
 * RTL Design
