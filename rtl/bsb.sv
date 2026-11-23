@@ -24,7 +24,7 @@ module bsb (
 
     // Left shift logic (logical)
     assign temp_left[0] = ip_b_bsb_data;
-    always_comb begin
+    always_comb begin //keep loop
     
         if (ip_sys_reset) begin
         
