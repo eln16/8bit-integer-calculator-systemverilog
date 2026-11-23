@@ -6,7 +6,7 @@
 
 This project implements a fully synchronous 8-bit integer calculator using SystemVerilog. The calculator accepts numeric and operator inputs through a keypad, processes arithmetic and logic operations, and displays the input or computed result on a 7-segment display.
 
-The system is designed using a modular RTL structure, including synchronizer, hexadecimal code generator, control unit, arithmetic logic unit, barrel shifter, and input/output converter blocks.
+The system is designed using a modular RTL structure, including synchronizer, hexadecimal code generator, control unit, arithmetic logic unit, barrel shifter and input/output converter blocks.
 
 ## Features
 
