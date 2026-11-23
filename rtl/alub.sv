@@ -22,7 +22,9 @@ module alub (
     output logic        op_b_alub_aluoverflow);
     
     logic [15:0]        mul_temp;
-
+  
+///////////////////////////////////////////////////////////////////////
+  
     always_comb begin
     
         if (ip_sys_reset) begin
