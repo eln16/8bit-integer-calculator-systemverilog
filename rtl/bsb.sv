@@ -4,7 +4,7 @@ Project  Module     :bsb
 File name           :bsb.sv
 Version             :1-0
 Date created        : 7 APRIL 2025
-Author              : Wong Carman             
+Author              : WONG CARMAN             
 Code type           : RTL Level (System Verilog)        
 Description         :  This module implements a barrel shifter that performs logical left and right 
                        shifts based on the direction and shift amount inputs.       
