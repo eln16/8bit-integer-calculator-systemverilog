@@ -4,7 +4,7 @@ Project  Module     :tb_bsb
 File name           :tb_bsb.sv
 Version             :1-0
 Date created        :12 APRIL 2025
-Author              : Wong Carman             
+Author              : WONG CARMAN            
 Code type           : Behavioural (System Verilog)       
 Description         :  This is a testbench for the `bsb` (Barrel Shifter) module, used to verify its 
                        functionality by applying a series of test cases, including left and right shifts,
@@ -13,7 +13,7 @@ Description         :  This is a testbench for the `bsb` (Barrel Shifter) module
 //##################################################################################################
 
 `define PERIOD_CLK 5
-
+//////////////////////////////////////////////////////////
 module tb_bsb;
 
     // Inputs
